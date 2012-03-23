@@ -1,0 +1,41 @@
+body {
+    background-color: #c4c2f5;
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 10px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+   /* text-decoration: underline;*/
+}
+
+a {
+    color: #4709d9;
+}
+
+a:visited {
+    color: #342D7E;
+}
+
+table {
+    border: 1px solid black;
+    background-color: white;
+    -moz-border-radius: 5px;
+    padding: 5px;
+}
+
+th {
+    color: #fffbf7;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 1px 5px;
+    background-color: #342D7E;
+}
+
+td {
+    color: #233375;
+    font-size: 12px;
+    padding: 0px 5px;
+    background-color: #b8cbcc;
+}
