@@ -1,0 +1,1 @@
+This is the php script to replace default view of Apache Directory Listing
